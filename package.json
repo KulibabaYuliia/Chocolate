@@ -1,11 +1,11 @@
 {
-  "name": "team_namee",
+  "name": "Chocolate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team_namee/",
+    "build": "vite build --base=/Chocolate/",
     "preview": "vite preview"
   },
   "devDependencies": {
